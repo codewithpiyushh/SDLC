@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+websockets
+motor
+python-dotenv
+jinja2
+pydantic
+mysql-connector-python
+python-multipart
+easyocr
+pypdf
+PyMuPDF
+sentence-transformers
+chromadb
